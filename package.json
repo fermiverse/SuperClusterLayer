@@ -1,0 +1,8 @@
+{
+  "name": "superclusterlayer",
+  "version": "1.0.0",
+  "description": "deck.gl composite layer to cluster any IconLayer",
+  "main": "index.js",
+  "author": "fermi <fermiverse@gmail.com>",
+  "license": "MIT"
+}
