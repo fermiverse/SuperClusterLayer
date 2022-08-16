@@ -4,5 +4,13 @@
   "description": "deck.gl composite layer to cluster any IconLayer",
   "main": "index.js",
   "author": "fermi <fermiverse@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@deck.gl/core": "8.7.11",
+    "@deck.gl/layers": "8.7.11",
+    "supercluster": "^7.1.5"
+  },
+  "devDependencies": {
+    "@danmarshall/deckgl-typings": "^4.9.25"
+  }
 }
